@@ -7,7 +7,7 @@ So my goal is to understand <b>low-level</b> aspect in <b>CS</b> to write decent
 
 My brain memory allocation currently has such <b>tools</b> in stack:<br>
 +-------+<br>
-| Brain&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+| Brain&nbsp;|<br>
 +-------+<br>
 |<br>
 v<br>
