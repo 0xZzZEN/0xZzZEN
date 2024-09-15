@@ -1,4 +1,4 @@
-## Hello (Zdravstvuyte, Bonjour, Hola, Konnichiwa, Nǐ hǎo, Guten Tag, [loading..]), %username%!👋
+## Hello, Zdravstvuyte, Bonjour, Hola, Konnichiwa, Nǐ hǎo, Guten Tag, [loading languages..], %username%!👋
 I am aspiring <b>SWE</b>, like to be curious and tinker around bytes, trying to understand how stuff works in <b>Computer Science.</b>
 
 Our inquiring minds always (or not always :D) want to know: “How does it work from a different perspective, through the eyes of a computer?”
