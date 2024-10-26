@@ -18,6 +18,7 @@ v<br>
 | SQL&nbsp;|<br>
 | HTML&nbsp;|<br>
 | CSS&nbsp;|<br>
+| Lua&nbsp;|<br>
 | bash&nbsp;|<br>
 | ubuntu&nbsp;|<br>
 | Vscode&nbsp;|<br>
