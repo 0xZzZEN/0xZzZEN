@@ -5,7 +5,7 @@ Our inquiring minds always (or not always :D) want to know: “How does it work 
 It becomes especially interesting and curious when you start immersing yourself in this world of zeros and ones through games, asking questions like: “How the hell does my character swing a sword?”
 So my goal is to understand <b>low-level</b> aspect in <b>CS</b> to write decent performant <b>software</b> and <b>games..</b> :) I'll be walking a long way..
 
-My brain memory allocation currently has such <b>tools</b> in stack:<br>
+My brain <b>memory</b> currently has allocated such <b>tools</b> in stack:<br>
 +-------+<br>
 | Brain&nbsp;|<br>
 +-------+<br>
