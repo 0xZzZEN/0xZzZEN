@@ -14,11 +14,11 @@ v<br>
 +--------------------------------------------------------+<br>
 | C&nbsp;|<br>
 | Python&nbsp;|<br>
+| Lua&nbsp;|<br>
 | JS&nbsp;|<br>
 | SQL&nbsp;|<br>
 | HTML&nbsp;|<br>
 | CSS&nbsp;|<br>
-| Lua&nbsp;|<br>
 | bash&nbsp;|<br>
 | ubuntu&nbsp;|<br>
 | Vscode&nbsp;|<br>
