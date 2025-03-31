@@ -24,7 +24,7 @@ v<br>
 | Vscode&nbsp;|<br>
 | [?%]loading more resources .. Please wait patiently..&nbsp;|<br>
 +--------------------------------------------------------+<br>
-- 🔭 I’m currently working on growth on my "vocabulairy" in C, using different resources and projects to learn.
+- 🔭 I’m currently working on growth on my "vocabulairy" in C, using different resources (https://beej.us/guide, codewars) and projects to learn.
 - In the future i'd love to expand my knowledge in <b>cpp</b> and <b>Unreal Engine 5</b>
 - I'm passionate about colors of life, music and dance: https://www.instagram.com/sleepingzzen/<br>
   💻🎼🕺🕉️🎭🕵️‍♂️
