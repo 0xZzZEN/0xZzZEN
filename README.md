@@ -3,7 +3,7 @@ I am aspiring <b>SWE</b>, like to be curious and tinker around bytes, trying to 
 
 Our inquiring minds always (or not always :D) want to know: “How does it work from a different perspective, through the eyes of a computer?”
 It becomes especially interesting and curious when you start immersing yourself in this world of zeros and ones through games, asking questions like: “How the hell does my character swing a sword?”
-So my goal is to understand <b>low-level</b> aspect in <b>CS</b> to write decent performant <b>software</b> and <b>games..</b> :) I'll be walking a long way..
+So my goal is to understand <b>low-level</b> aspect in <b>CS</b> to write performant (where memory bus goes <b>vroom-vroom</b>) <b>software</b> and <b>games..</b> :) I'll be walking a long way..
 
 My brain currently has allocated such <b>tools</b> in brain <b>memory</b>:<br>
 +-------+<br>
