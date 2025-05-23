@@ -25,7 +25,7 @@ v<br>
 | Vscode&nbsp;|<br>
 | [?%]loading more resources .. Please wait patiently..&nbsp;|<br>
 +--------------------------------------------------------+<br>
-![](https://raw.githubusercontent.com/0xZzZEN/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/0xZzZEN/cf-stats/main/output/rating.svg)
 
 - 🔭 I’m currently working on growth on my "vocabulairy" in C, using different resources (https://beej.us/guide, codewars) and projects to learn.
 - In the future i'd love to expand my knowledge in <b>cpp</b> and <b>Unreal Engine 5</b>
