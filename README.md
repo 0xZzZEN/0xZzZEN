@@ -12,25 +12,25 @@ My brain currently has allocated such <b>tools</b> in brain <b>memory</b>:<br>
 +-------+
     |
     v
-+--------------------------------------------------------+
-| ==== Brain Module Part: Core Languages ====            |
-| C                                                      |
-| Python                                                 |
-| Lua                                                    |
-| SQL                                                    |
----------------------------------------------------------- 
-| ==== Brain Module Part: Web Development ====           |
-| HTML                                                   |
-| CSS                                                    |
-| JS                                                     |
-----------------------------------------------------------
-| ==== Brain Module Part: Tools And Environment ====     |
-| gdb                                                    |
-| bash                                                   |
-| git                                                    |
-| Vscode                                                 |
-| WSL Ubuntu                                             |
-+--------------------------------------------------------+
++-----------------------------------------------------+
+| ======== Brain Module Part: Core Languages ======== |
+| C                                                   |
+| Python                                              |
+| Lua                                                 |
+| SQL                                                 |
+------------------------------------------------------- 
+| ======= Brain Module Part: Web Development ======== |
+| HTML                                                |
+| CSS                                                 |
+| JS                                                  |
+-------------------------------------------------------
+| ==== Brain Module Part: Tools And Environment ===== |
+| gdb                                                 |
+| bash                                                |
+| git                                                 |
+| Vscode                                              |
+| WSL Ubuntu                                          |
++-----------------------------------------------------+
 ```
 ![](https://raw.githubusercontent.com/0xZzZEN/cf-stats/main/output/max_rating.svg)
 
