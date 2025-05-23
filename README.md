@@ -6,25 +6,32 @@ It becomes especially interesting and curious when you start immersing yourself 
 So my goal is to understand <b>low-level</b> aspect in <b>CS</b> to write performant (where memory bus goes vroom-vroom) <b>software</b> and <b>games..</b> :) I'll be walking a long way..
 
 My brain currently has allocated such <b>tools</b> in brain <b>memory</b>:<br>
-+-------+<br>
-| Brain&nbsp;|<br>
-+-------+<br>
-|<br>
-v<br>
-+--------------------------------------------------------+<br>
-| C&nbsp;|<br>
-| Python&nbsp;|<br>
-| Lua&nbsp;|<br>
-| JS&nbsp;|<br>
-| SQL&nbsp;|<br>
-| HTML&nbsp;|<br>
-| CSS&nbsp;|<br>
-| gdb&nbsp;|<br>
-| bash&nbsp;|<br>
-| ubuntu&nbsp;|<br>
-| Vscode&nbsp;|<br>
-| [?%]loading more resources .. Please wait patiently..&nbsp;|<br>
-+--------------------------------------------------------+<br>
+```
++-------+
+| Brain |
++-------+
+    |
+    v
++--------------------------------------------------------+
+| ==== Brain Module Part: Core Languages ====            |
+| C                                                      |
+| Python                                                 |
+| Lua                                                    |
+| SQL                                                    |
+---------------------------------------------------------- 
+| ==== Brain Module Part: Web Development ====           |
+| HTML                                                   |
+| CSS                                                    |
+| JS                                                     |
+----------------------------------------------------------
+| ==== Brain Module Part: Tools and environment ====     |
+| gdb                                                    |
+| bash                                                   |
+| git                                                    |
+| Vscode                                                 |
+| WSL Ubuntu                                             |
++--------------------------------------------------------+
+```
 ![](https://raw.githubusercontent.com/0xZzZEN/cf-stats/main/output/max_rating.svg)
 
 - 🔭 I’m currently working on growth on my "vocabulairy" in C, using different resources (https://beej.us/guide, codewars) and projects to learn.
