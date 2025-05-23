@@ -24,7 +24,7 @@ My brain currently has allocated such <b>tools</b> in brain <b>memory</b>:<br>
 | CSS                                                    |
 | JS                                                     |
 ----------------------------------------------------------
-| ==== Brain Module Part: Tools and environment ====     |
+| ==== Brain Module Part: Tools And Environment ====     |
 | gdb                                                    |
 | bash                                                   |
 | git                                                    |
