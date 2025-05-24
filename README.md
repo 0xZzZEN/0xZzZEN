@@ -29,6 +29,8 @@ My brain currently has allocated such <b>tools</b> in brain <b>memory</b>:<br>
 | bash                                                |
 | git                                                 |
 | Vscode                                              |
+| valgrind                                            |
+| gcc                                                 | 
 | WSL Ubuntu                                          |
 +-----------------------------------------------------+
 ```
