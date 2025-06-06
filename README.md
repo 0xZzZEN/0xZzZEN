@@ -23,6 +23,7 @@ My brain currently has allocated such <b>tools</b> in brain <b>memory</b>:<br>
 | HTML                                                |
 | CSS                                                 |
 | JS                                                  |
+| PHP                                                 |
 -------------------------------------------------------
 | ==== Brain Module Part: Tools And Environment ===== |
 | gdb                                                 |
