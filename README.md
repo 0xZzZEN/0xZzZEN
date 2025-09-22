@@ -30,6 +30,7 @@ My brain currently has allocated such <b>tools</b> in brain <b>memory</b>:<br>
 | bash                                                |
 | git                                                 |
 | Vscode                                              |
+| Vim                                                 |
 | valgrind                                            |
 | gcc                                                 | 
 | WSL Ubuntu                                          |
