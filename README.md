@@ -32,6 +32,7 @@ My brain currently has allocated such <b>tools</b> in brain <b>memory</b>:<br>
 | Vscode                                              |
 | Vim                                                 |
 | valgrind                                            |
+| gnu make                                            |
 | gcc                                                 | 
 | WSL Ubuntu                                          |
 +-----------------------------------------------------+
