@@ -40,7 +40,7 @@ My brain currently has allocated such <b>tools</b> in brain <b>memory</b>:<br>
 ![](https://raw.githubusercontent.com/0xZzZEN/cf-stats/main/output/max_rating.svg)
 
 - 🔭 I’m currently working on growth on my "vocabulary" in C, using different resources like https://beej.us/guide, codewars and local projects to learn.
-- In the future i'd love to expand my knowledge in <b>cpp</b> and <b>Unreal Engine 5</b>
+- Exploring gamedev and programs architecture, trying to learn more about low-level programming and tricks
 - I'm passionate about colors of life, existence, music and dance: https://www.instagram.com/sleepingzzen/<br>
   💻🎼🕺🕉️🎭🕵️‍♂️
 
