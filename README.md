@@ -43,6 +43,6 @@ My brain currently has allocated such <b>tools</b> in brain <b>memory</b>:<br>
 - 🔭 I’m currently working on growth on my "vocabulary" in C, using different resources like https://beej.us/guide, codewars and local projects to learn.
 - Exploring gamedev, computer graphics and modular structures of programs, trying to learn more about low-level programming and its tricks.
 - I'm passionate about colors of life, existence, music and dance: https://www.instagram.com/sleepingzzen/<br>
-- I don't use 'AI' tools.
+- I don't use 'AI' tools in my code.
 
   💻🎼🕺🕉️🎭🕵️‍♂️
